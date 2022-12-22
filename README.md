@@ -5,7 +5,7 @@
 - 方案二：插入冗余控制流
 - 方案三：控制流平展化
 
-详细实现请阅读
+详细实现请阅读`docs`：[LLVM实现控制流混淆](./docs/%E5%9F%BA%E4%BA%8ELLVM%E5%AE%9E%E7%8E%B0%E6%8E%A7%E5%88%B6%E6%B5%81%E6%B7%B7%E6%B7%86.pdf)
 
 ![](./pics/IfPass.png)
 
